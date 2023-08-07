@@ -202,6 +202,7 @@
 ||centro.dating^
 ||charleston.dating^
 ||chat.org^
+||chatdate.app^
 ||chathub.cam^
 ||chatless.dating^
 ||chatliv.com^
@@ -781,7 +782,7 @@
 ||okcupid.com^
 ||oma.dating^
 ||omegle.com^
-||omegle.funchatdate.app^
+||omegle.fun^
 ||omeglesocialchat.com^
 ||omiai-jp.com^
 ||oncloser.com^
